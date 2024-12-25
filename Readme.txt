@@ -41,3 +41,10 @@ Password: 122713
 Customer Access:
 
 create an Account for the Customer
+
+
+Contact
+For inquiries, feel free to reach out via:
+
+Phone: 0750926918 (Available on WhatsApp and direct calls)
+Email: gulobabrian@gmail.com
